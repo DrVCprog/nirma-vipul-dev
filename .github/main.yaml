@@ -5,7 +5,7 @@ on:
 	- dev
 env:
   AWS_REGION: us-east-1
-  S3_BUCKET_NAME: nirma-vipul-dev
+  S3_BUCKET_NAME: nirma-vc-dev
 jobs:
   deploy:
     runs-on: ubuntu-latest
