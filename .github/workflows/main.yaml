@@ -1,8 +1,8 @@
 on:
   push:
     branches: 
-	- main
-	- dev
+    - main
+    - dev
 env:
   AWS_REGION: us-east-1
   S3_BUCKET_NAME: nirma-vc-dev
